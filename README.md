@@ -15,7 +15,7 @@
 ## How to Use
 1. Clone or download this repository
 2. Open `index.html` in any web browser
-3. To go live: Host on GitHub Pages (enabled automatically for `username.github.io` repos)
+3. To go live: Host on GitHub Pages (enabled automatically for `thechillchrochet.com` repos)
 
 ## Built With
 - HTML5
